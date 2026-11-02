@@ -3,7 +3,7 @@
 <!--  Palette: #7928CA (purple) → #00D9FF (cyan) · Theme: tokyonight -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=IAmKings&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Code%20%C2%B7%20Craft%20%C2%B7%20Creativity&descAlignY=56&descSize=16&color=gradient:7928CA,00D9FF" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=IAmKings&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Code%20%C2%B7%20Craft%20%C2%B7%20Creativity&descAlignY=56&descSize=16&color=0:7928CA,100:00D9FF" width="100%" alt="header"/>
 
 <div align="center">
   <a href="https://github.com/IAmKings">
@@ -23,7 +23,7 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient:7928CA,00D9FF" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:7928CA,100:00D9FF" width="100%" alt="divider"/>
 
 ## 👋 About Me · 关于我
 
@@ -116,6 +116,6 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient:00D9FF,7928CA" width="100%" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00D9FF,100:7928CA" width="100%" alt="divider"/>
   <p><em>"Craft code like it's a poem."</em></p>
 </div>

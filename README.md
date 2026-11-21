@@ -38,8 +38,8 @@
 
 | 项目 | 一句话 | 关键词 |
 | :--- | :--- | :--- |
-| **[LKanvas](https://github.com/IAmKings/LKanvas)**<br/><sub>Kotlin · Compose</sub> | KLineChart v10 的 Android 原生实现：纯 Kotlin 计算核心 + Canvas 绘制，指标与坐标轴对齐上游 API | `K线` `Canvas` `零 WebView` |
-| **[anki_card_builder](https://github.com/IAmKings/anki_card_builder)**<br/><sub>Python · Pages</sub> | PDF / DOCX / EPUB → 可溯源 Anki 卡组，答案里的关键信息必须能在原文逐字找到 | `带引用` `题派生` `牌组` |
+| **[LKanvas](https://github.com/IAmKings/LKanvas)**<br/><sub>Kotlin · Compose</sub> | KLineChart v10 的 Android 原生实现：纯 Kotlin 计算核心 + Compose Canvas 绘制，指标、覆盖物、坐标轴对齐上游 API | `K线` `Canvas` `零 WebView` |
+| **[anki_card_builder](https://github.com/IAmKings/anki_card_builder)**<br/><sub>Python · Pages</sub> | PDF / DOCX / TXT / HTML / EPUB → 可溯源 Anki 卡组，每张卡带原文定位，关键信息必须在引用里逐字找到 | `带引用` `题派生` `牌组` |
 | **[last30days-skill-cn](https://github.com/IAmKings/last30days-skill-cn)**<br/><sub>Agent Skill · Pages</sub> | 给 AI Agent 的中文互联网研究能力：8 大平台近 30 天讨论，跨平台聚类 + 每日热榜 | `8 平台` `聚类` `报告` |
 | **[kheti](https://github.com/IAmKings/kheti)**<br/><sub>Kotlin · CMP</sub> | 「赫蹏」中文排版规则的 Kotlin / Compose Multiplatform 移植，面向诗词与古籍，横排 + 竖排 | `中文排印` `竖排` `古籍` |
 | **[ZhiBox](https://github.com/IAmKings/ZhiBox)**<br/><sub>Kotlin</sub> | 本地优先的移动应用；从它内部长出了更新组件 ReleaseKite | `本地优先` `自动更新` |
